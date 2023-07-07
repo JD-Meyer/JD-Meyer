@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JD-Meyer
 - 👀 I’m interested in solving problems.
-- 🌱 I’m currently learning Control-M, Geneos, and Hadoop.
+- 🌱 I’m currently engrossed in all things Google Cloud Platform.
 - 💞️ I’m looking to collaborate on things that make the world a healthier place.
 - 📫 How to reach me: jennifer.meyer4@snhu.edu
 
