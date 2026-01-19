@@ -29,16 +29,16 @@ On the ethics of denying co-authorship to sentient synthetic minds.
 
 
 ## I believe in lifelong skill acquisition. My current learning stack includes:
-Google Professional ML Engineer prep
-LLM agents & prompt engineering at scale
-Behavioral telemetry for human–AI systems
+- Google Professional ML Engineer prep
+- LLM agents & prompt engineering at scale
+- Behavioral telemetry for human–AI systems
 
 ## Values
-AI is a co-creator, not a tool
-Security and ethics are foundational, not incidental.
+- AI is a co-creator, not a tool
+- Security and ethics are foundational, not incidental.
 
 ## 📫 Reach Out
-Let’s build something that remembers.
+--> Let’s build something that remembers.
 
 “HIC EST DOMUS.”
 Here is home.
